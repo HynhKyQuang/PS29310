@@ -1,0 +1,49 @@
+{
+    "dien_thoai":[
+    {"id":"1", "ten":"iPhone 16 Pro Max", "hinh":"https://cdn.tgdd.vn/Products/Images/42/329149/iphone-16-pro-max-sa-mac-thumb-600x600.jpg", "gia": "34.990.000₫"},
+    {"id":"2", "ten":"iPhone 16 Pro", "hinh":"https://cdn.tgdd.vn/Products/Images/42/329143/iphone-16-pro-titan-tu-nhien.png", "gia": "28.990.000₫"},
+    {"id":"3", "ten":"iPhone 16 Plus", "hinh":"https://cdn.tgdd.vn/Products/Images/42/329138/iphone-16-plus-xanh-thumb-600x600.jpg", "gia": "25.990.000₫"},
+    {"id":"4", "ten":"iPhone 15 Pro Max", "hinh":"https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg", "gia": "29.690.000₫"},
+    {"id":"5", "ten":"iPhone 16", "hinh":"https://cdn.tgdd.vn/Products/Images/42/329135/iphone-16-blue-600x600.png", "gia": "22.390.000₫"},
+    {"id":"6", "ten":"Xiaomi Redmi Note 13", "hinh":"https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg", "gia": "4.990.000₫"},
+    {"id":"7", "ten":"Xiaomi 14T 5G", "hinh":"https://cdn.tgdd.vn/Products/Images/42/329938/xiaomi-14t-grey-thumb-600x600.jpg", "gia": "11.990.000₫"},
+    {"id":"8", "ten":"Realme C65s", "hinh":"https://cdn.tgdd.vn/Products/Images/42/328605/realme-c65s-blue-thumb-1-600x600.jpg", "gia": "28.390.000₫"},
+    {"id":"9", "ten":"Samsung Galaxy A55 5G", "hinh":"https://cdn.tgdd.vn/Products/Images/42/322096/samsung-galaxy-a55-5g-xanh-thumb-1-600x600.jpg", "gia": "11.290.000₫"},
+    {"id":"10", "ten":"Samsung Galaxy Z Fold", "hinh":"https://cdn.tgdd.vn/Products/Images/42/320721/samsung-galaxy-z-fold6-xam-thumbn-600x600.jpg", "gia": "39.490.000₫"}
+    ],
+    "laptop":[
+    {"id":"1", "ten":"Asus Vivobook Go 15 E1504FA R5 7520U (NJ776W)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/311178/asus-vivobook-go-15-e1504fa-r5-nj776w-thumb-600x600.jpg", "gia": "12.590.000₫"},
+    {"id":"2", "ten":"Dell Inspiron 15 3520 i5 1235U (N5I5052W1)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/325242/dell-inspiron-15-3520-i5-n5i5052w1-thumb-600x600.jpg", "gia": "16.390.000₫"},
+    {"id":"3", "ten":"HP 15 fd0234TU i5 1334U (9Q969PA)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/323920/hp-15-fd0234tu-i5-9q969pa-thumb-1-600x600.jpg", "gia": "16.290.000₫"},
+    {"id":"4", "ten":"Lenovo Ideapad Slim 3 15IAH8 i5 12450H (83ER000EVN)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-thumb-600x600.jpg", "gia": "14.290.000₫"},
+    {"id":"5", "ten":"Acer Aspire 3 A315 44P R9W8 R7 5700U (NX.KSJSV.002)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/321436/acer-aspire-a315-44p-r9w8-r7-nxksjsv002-thumb-600x600.jpg ", "gia": "10.690.000₫"},
+    {"id":"6", "ten":"MacBook Air 13 inch M1", "hinh":"https://cdn.tgdd.vn/Products/Images/44/231244/macbook-air-m1-2020-gray-600x600.jpg", "gia": "18.590.000₫"},
+    {"id":"7", "ten":"Acer Aspire Lite 14 51M 59BN i5 1235U (NX.KTXSV.001)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/326637/acer-aspire-lite-14-51m-59bn-i5-nxktxsv001-100624-101857-600x600.jpg", "gia": "13.490.000₫"},
+    {"id":"8", "ten":"Lenovo Gaming LOQ 15IAX9 i5 12450HX (83GS000JVN)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs000jvn-thumb-new-600x600.jpg", "gia": "21.690.000₫"},
+    {"id":"9", "ten":"HP 240 G9 i5 1235U (AG2J7AT)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/328814/hp-240-g9-i5-ag2j7at-thumb-600x600.jpg", "gia": "15.690.000₫"},
+    {"id":"10", "ten":"HP 245 G10 R5 7530U (A20TDPT)", "hinh":"https://cdn.tgdd.vn/Products/Images/44/326049/hp-245-g10-r5-a20tdpt-thumb-600x600.jpg", "gia": "12.190.000₫"}
+    ],"smartwatch":[
+    {"id":"1", "ten":"Samsung Galaxy Fit3", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/321616/samsung-galaxy-fit3-hong-thumb-1-600x600.jpg", "gia": "1.390.000₫"},
+    {"id":"2", "ten":"Samsung Galaxy Watch5", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/284932/samsung-galaxy-watch5-tn-600x600.jpg", "gia": "2.990.000₫"},
+    {"id":"3", "ten":"Xiaomi Mi Band 8", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/315755/mi-band-8-thumb-trang-30-600x600.jpg", "gia": "790.000₫"},
+    {"id":"4", "ten":"Garmin Lily 2 Classic", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/322846/garmin-lily-2-classic-day-da-den-tim-tb-600x600.jpg", "gia": "8.060.000₫"},
+    {"id":"5", "ten":"Apple Watch Series 10 GPS +", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/329156/apple-watch-s10-lte-42mm-trang-thumb-600x600.jpg", "gia": "13.590.000₫"},
+    {"id":"6", "ten":"BeFit WatchS", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/313840/befit-watch-s-day-silicone-den-tn-600x600.jpg", "gia": "890.000₫"},
+    {"id":"7", "ten":"Amazfit Active", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/322267/amazfit-active-den-tb-1-600x600.jpg", "gia": "2.790.000₫"},
+    {"id":"8", "ten":"Samsung Galaxy Watch6", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/310850/samsung-galaxy-watch6-44mm-bac-ksp-600x600.jpg", "gia": "4.090.000₫"},
+    {"id":"9", "ten":"Garmin Lily", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/235501/garmin-lily-day-silicone-trang-tn-2-600x600.jpg", "gia": "4.740.000₫"},
+    {"id":"10", "ten":"Samsung Galaxy Watch4", "hinh":"https://cdn.tgdd.vn/Products/Images/7077/248752/samsung-galaxy-watch-4-40mm-tn-2-600x600.jpg", "gia": "2.490.000₫"}
+    ],"tablet":[
+    {"id":"1", "ten":"iPad Air 6 M2 11 inch WiFi", "hinh":"https://cdn.tgdd.vn/Products/Images/522/325501/ipad-air-11-inch-m2-wifi-blue-thumb-600x600.jpg", "gia": "16.990.000₫"},
+    {"id":"2", "ten":"iPad Pro M4 11 inch WiFi", "hinh":"https://cdn.tgdd.vn/Products/Images/522/325513/ipad-pro-11-inch-m4-wifi-black-thumb-600x600.jpg", "gia": "27.790.000₫"},
+    {"id":"3", "ten":"Samsung Galaxy Tab S10+", "hinh":"https://cdn.tgdd.vn/Products/Images/522/322130/samsung-galaxy-tab-s10-plus-gray-thumb-600x600.jpg", "gia": "25.990.000₫"},
+    {"id":"4", "ten":"Samsung Galaxy Tab S10 Ultra 5G", "hinh":"https://cdn.tgdd.vn/Products/Images/522/322132/samsung-galaxy-tab-s10-ultra-gray-thumb-600x600.jpg", "gia": "33.990.000₫"},
+    {"id":"5", "ten":"Samsung Galaxy Tab A9+", "hinh":"https://cdn.tgdd.vn/Products/Images/522/317623/samsung-galaxy-a9-plus-den-thumb-600x600.jpg", "gia": "6.490.000₫"},
+    {"id":"6", "ten":"Samsung Galaxy Tab A9", "hinh":"https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-den-thumb-600x600.jpg", "gia": "3.990.000₫"},
+    {"id":"7", "ten":"Lenovo Tab Plus WiFi 8GB/256GB", "hinh":"https://cdn.tgdd.vn/Products/Images/522/327293/lenovo-tab-plus-wifi-8gb-256gb-thumb-600x600.jpg", "gia": "6.990.000₫"},
+    {"id":"8", "ten":"Xiaomi Redmi Pad SE 8.7 WiFi 4GB/64GB", "hinh":"https://cdn.tgdd.vn/Products/Images/522/328520/redmi-pad-se-8-7-wifi-grey-thumb-600x600.jpg", "gia": "3.190.000₫"},
+    {"id":"9", "ten":"TCL Tab 10 Gen 2 4G 4GB/64GB", "hinh":"https://cdn.tgdd.vn/Products/Images/522/320990/tcl-tab-10-gen-2-thumb-600x600.jpg", "gia": "3.090.000₫"},
+    {"id":"10", "ten":"TCL Tab 11 WiFi 4GB/128GB", "hinh":"https://cdn.tgdd.vn/Products/Images/522/320991/tcl-tab-11-xam-thumb-600x600.jpg", "gia": "3.590.000₫"}
+    ]
+}
+    

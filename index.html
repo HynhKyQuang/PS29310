@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shop</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/c1.css">
+    </head>
+    <body>
+        <div class="container">
+        <header>
+            <nav>
+                <a href="#dien_thoai">Điện thoại</a>
+                <a href="#laptop">Laptop</a>
+                <a href="#smartwatch">Smartwatch</a>
+                <a href="#tablet">Tablet</a>
+                <button class="cart-button">Giỏ Hàng (0)</button>
+                <div style="padding: 20px;">
+            </nav>
+        </header>
+        <main>
+            <section id="dien_thoai">
+                <h2>Điện thoại</h2>
+                <div id="data"></div>
+            </section>
+            <section id="laptop">
+                <h2>Laptop</h2>
+                <div id="data"></div>
+            </section>
+            <section id="smartwatch">
+                <h2>Smartwatch</h2>
+                <div id="data"></div>
+            </section>
+            <section id="tablet">
+                <h2>Tablet</h2>
+                <div id="data"></div>
+            </section>
+        </main>
+        <script type="module">
+            import { showlistdienthoai, showlistlaptop, showlistsmartwatch, showlisttablet} from './js/app.js';
+            document.querySelector("#dien_thoai #data").innerHTML = await showlistdienthoai();
+            document.querySelector("#laptop #data").innerHTML = await showlistlaptop();
+            document.querySelector("#smartwatch #data").innerHTML = await showlistsmartwatch();
+            document.querySelector("#tablet #data").innerHTML = await showlisttablet();
+        </script>
+        <footer> Họ và tên: Huỳnh Kỳ Quang </footer>
+        </div>
+        <button id="scrollToTop" style="display: none;">↑</button>
+        <script src="/js/script.js"></script>
+    </body>
+</html>

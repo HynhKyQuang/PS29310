@@ -1,0 +1,193 @@
+* { margin: 0; padding: 0; box-sizing: border-box;}
+a { text-decoration: none;}
+html {scroll-behavior: smooth;}
+nav { background: #ffae00; height: 60px; line-height: 60px; text-align: center; position: sticky; top: 0%; left: 0%; }
+nav a { color: white; font-size: 1.2em; font-weight: 600; margin: auto 10px;}
+nav a:hover { color: yellow}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0%;
+}
+#dien_thoai {
+    background-color: #ffffff;
+    padding-top: 80px;
+}
+#dien_thoai > h2 {
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+}
+#dien_thoai #data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+#dien_thoai #data > div {
+    flex-basis: calc(20% - 10px);
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+#dien_thoai #data > div h4 {
+    color: #000000;
+    text-transform: uppercase;
+}
+#dien_thoai #data > div img {
+    width: 60%;
+    height: 150px;
+    margin: 10px;
+}
+#dien_thoai #data > div img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#laptop {
+    background-color: #ffae00;
+    padding-top: 40px;
+}
+#laptop > h2 {
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+#laptop #data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+#laptop #data > div {
+    flex-basis: calc(20% - 10px);
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+#laptop #data > div h4 {
+    color: #000000;
+    text-transform: uppercase;  
+}
+#laptop #data > div img {
+    width: 100%;
+    height: 170px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#laptop #data > div img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#smartwatch {
+    background-color: #ffffff;
+    padding-top: 40px;
+}
+#smartwatch > h2 {
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+}
+#smartwatch #data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+#smartwatch #data > div {
+    flex-basis: calc(20% - 50px);
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+#smartwatch #data > div h4 {
+    color: #000000;
+    text-transform: uppercase;
+}
+#smartwatch #data > div img {
+    width: 100%;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid #002160;
+    border-radius: 20px;
+}
+#smartwatch #data > div img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#tablet {
+    background-color: #ffae00;
+    padding-top: 40px;
+}
+#tablet > h2 {
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+#tablet #data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    width: 80%;
+    margin: auto;
+    border: 1px solid #000000;
+}
+#tablet #data > div {
+    flex-basis: calc(20% - 10px);
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+#tablet #data > div h4 {
+    color: #000000;
+    text-transform: uppercase;
+}
+#tablet #data > div img {
+    width: 80%;
+    height: auto;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+#tablet #data > div img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+footer { background: #000000; height: 60px; text-align: center; line-height: 60px; color: white; font-size: 1.5em; }
+.cart-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+    transition: background-color 0.3s;
+    left: 2%;
+    right: 89.5%;
+}
+
+.cart-button:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+#scrollToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1000;
+}
+#scrollToTop:hover {
+    background-color: #0056b3;
+}
+
